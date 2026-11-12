@@ -2,6 +2,8 @@
 # Date: 12 Nov 2026 
 # SENARAI IP YANG MEMPUNYAI REPUTASI KEBARANGKALIAN TERLIBAT DIDALAM SERANGAN SIBER
 # =========================================================================================
+99.242.71.1
+41.59.89.206
 23.239.17.169
 110.159.103.97 #IP MY NMaP scan capsule. 
 3.42.1.70
