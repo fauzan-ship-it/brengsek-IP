@@ -2,6 +2,7 @@
 # Date: 14 Nov 2026 
 # SENARAI IP YANG MEMPUNYAI REPUTASI KEBARANGKALIAN TERLIBAT DIDALAM SERANGAN SIBER
 # ===========================================================================================
+190.141.126.112
 3.101.230.161
 #========================IP DARI SERVER THALHAH==============================================
 43.172.196.214
