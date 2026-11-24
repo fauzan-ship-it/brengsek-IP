@@ -2,6 +2,7 @@
 # Date: 21 Nov 2026 
 # SENARAI IP YANG MEMPUNYAI REPUTASI KEBARANGKALIAN TERLIBAT DIDALAM SERANGAN SIBER
 # ===========================================================================================
+223.149.172.189
 89.46.114.198
 115.135.30.249
 20.191.145.25
