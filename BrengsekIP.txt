@@ -2,6 +2,9 @@
 # Date: 25 Nov 2026 
 # SENARAI IP YANG MEMPUNYAI REPUTASI KEBARANGKALIAN TERLIBAT DIDALAM SERANGAN SIBER
 # ===========================================================================================
+103.115.29.170
+180.246.217.90
+120.29.153.118
 196.189.98.77
 196.203.207.134 #PanicDdos
 183.171.249.52
